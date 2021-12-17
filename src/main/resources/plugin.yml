@@ -1,0 +1,8 @@
+main: 'xyz.mrsherobrine.enchantments.Enchantments'
+name: 'Enchantments'
+description: 'only the best troll enchantments'
+version: '0.0.1'
+api-version: '1.18'
+authors:
+  - 'dap'
+  - 'Mrs_Herobrine_'
